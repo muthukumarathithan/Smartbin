@@ -1,0 +1,6 @@
+{
+  "name": "Supervisor",
+  "version": "0.0.0",
+  "main": "Supervisor.js",
+  "private": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Employees",
+  "version": "0.0.0",
+  "main": "Employees.js",
+  "private": true
+}

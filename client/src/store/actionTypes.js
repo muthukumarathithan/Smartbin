@@ -1,0 +1,98 @@
+export const ADD_ERROR = 'ADD_ERROR';
+export const REMOVE_ERROR = 'REMOVE_ERROR';
+
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+
+//Devices
+export const SET_DEVICES = 'GET_DEVICES';
+export const SET_CURRENT_DEVICE = 'SET_CURRENT_DEVICE';
+export const REMOVE_DEVICE = 'REMOVE_DEVICE';
+
+
+//Customers
+export const SET_CUSTOMERS = 'GET_CUSTOMERS';
+export const SET_CURRENT_CUSTOMER = 'SET_CURRENT_CUSTOMER';
+export const REMOVE_CUSTOMER = 'REMOVE_CUSTOMER';
+
+//Drivers
+export const SET_DRIVERS = 'GET_DRIVERS';
+export const SET_CURRENT_DRIVER = 'SET_CURRENT_DRIVER';
+export const REMOVE_DRIVER = 'REMOVE_DRIVER';
+
+//Bins
+export const SET_BINS = 'GET_BINS';
+export const SET_CURRENT_BIN = 'SET_CURRENT_BIN';
+export const REMOVE_BIN = 'REMOVE_BIN';
+
+//Vehicles
+export const SET_VEHICLES = 'GET_VEHICLES';
+export const SET_CURRENT_VEHICLE = 'SET_CURRENT_VEHICLE';
+export const REMOVE_VEHICLE = 'REMOVE_VEHICLE';
+
+//Fences
+export const SET_FENCES = 'GET_FENCES';
+export const SET_CURRENT_FENCE = 'SET_CURRENT_FENCE';
+export const REMOVE_FENCE = 'REMOVE_FENCE';
+
+//Vehicles socket
+export const SET_LIVE_VEHICLES = 'GET_LIVE_VEHICLES';
+export const SET_LIVE_VEHICLE = 'SET_LIVE_VEHICLE';
+export const SET_VEHICLE_STATUS = 'SET_VEHICLE_STATUS';
+export const SET_VEHICLE_ADDRESS = 'SET_VEHICLE_ADDRESS';
+export const REMOVE_SOCKET = 'REMOVE_SOCKET';
+
+
+//Dealers
+export const SET_DEALERS = 'GET_DEALERS';
+export const REMOVE_DEALER = 'REMOVE_DEALER';
+export const SET_CURRENT_DEALER = 'SET_CURRENT_DEALER';
+
+//Customers
+export const SET_DISTRIBUTORS = 'GET_DISTRIBUTORS';
+export const SET_CURRENT_DISTRIBUTOR = 'SET_CURRENT_DISTRIBUTOR';
+export const REMOVE_DISTRIBUTOR = 'REMOVE_DISTRIBUTOR';
+
+//View
+export const SET_MAP_VIEW = 'GET_MAP_VIEW';
+export const SET_HISTORY = 'GET_HISTORY';
+
+
+//Zone
+export const SET_ZONE = 'GET_ZONE';
+export const SET_CURRENT_ZONE = 'SET_CURRENT_ZONE';
+export const REMOVE_ZONE = 'REMOVE_ZONE';
+
+//District
+export const SET_DISTRICT = 'GET_DISTRICT';
+export const SET_CURRENT_DISTRICT = 'SET_CURRENT_DISTRICT';
+export const REMOVE_DISTRICT = 'REMOVE_DISTRICT';
+
+
+//Ward
+export const SET_WARD = 'GET_WARD';
+export const SET_CURRENT_WARD = 'SET_CURRENT_WARD';
+export const REMOVE_WARD = 'REMOVE_WARD';
+
+
+//Vehicle Type
+export const SET_VEHICLETYPE = 'GET_VEHICLETYPE';
+export const SET_CURRENT_VEHICLETYPE = 'SET_CURRENT_VEHICLETYPE';
+export const REMOVE_VEHICLETYPE = 'REMOVE_VEHICLETYPE';
+
+
+//House
+export const SET_HOUSE = 'GET_HOUSE';
+export const SET_CURRENT_HOUSE = 'SET_CURRENT_HOUSE';
+export const REMOVE_HOUSE = 'REMOVE_HOUSE';
+
+
+//SUPERVISOR
+export const SET_SUPERVISOR = 'GET_SUPERVISOR';
+export const SET_CURRENT_SUPERVISOR = 'SET_CURRENT_SUPERVISOR';
+export const REMOVE_SUPERVISOR = 'REMOVE_SUPERVISOR';
+
+
+//EMPLOYEE
+export const SET_EMPLOYEES = 'GET_EMPLOYEES';
+export const SET_CURRENT_EMPLOYEE = 'SET_CURRENT_EMPLOYEE';
+export const REMOVE_EMPLOYEE = 'REMOVE_EMPLOYEE';
